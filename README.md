@@ -1,2 +1,1 @@
-# vistronica
-Repositorio para desarollos de software para vistronica
+# repo creadao para alamcenar cdigos de prueba
